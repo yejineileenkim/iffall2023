@@ -1,0 +1,99 @@
+html {
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15pt
+    
+  }
+  
+  body{
+      margin: 10%;
+  }
+  
+  h1 {
+      color:green;
+      letter-spacing: -0.02em;
+      text-transform: capitalize;
+      text-indent: -1rem;
+      font-family: 'Open Sans', sans-serif;
+      
+  }
+  
+  p{
+      font-size: 20pt;
+      line-height: 1.4;
+  }
+  
+  sup {
+      font-size: 60%;
+  }
+  
+  bold {
+      font-weight: bold;
+  }
+
+  let {
+letter-spacing: 0.03em;
+  }
+
+  lett {
+    letter-spacing: -0.06em;
+  }
+
+  italic {
+    font-style: italic;
+}
+  
+  
+  aside{
+  text-align: center;
+  }
+  
+  cite{
+      text-align: right;
+      display: block;
+  }
+  
+  article {
+      margin: 6rem 0;
+  }
+  
+  section {
+      margin: 2.5 em 0;
+  }
+  
+  a {
+      text-decoration: none;
+  }
+  
+
+overline{
+text-decoration: overline;
+}
+
+linethru{
+    text-decoration: line-through;
+    }
+    
+  
+ul{
+        text-decoration: underline;
+        }
+
+cap {
+    text-transform:capitalize;
+;}
+
+low {
+    text-transform: lowercase;
+}
+
+upp {
+    text-transform: uppercase;
+}
+    
+        
+
+  .fas{
+  font-size: 0.8em;
+  color: red;
+  }
